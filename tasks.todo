@@ -1,0 +1,11 @@
+Webpack:
+    ✔ Transpile babel @done (6/24/2017, 5:37:38 PM)
+    ☐ Sourcemaps on js @high 
+    ☐ Parse HTML @high 
+    ☐ Move images and fonts to dist on build @high 
+    ☐ Transpile Scss @critical 
+    ☐ Minify js @low  
+    ☐ Minify css @low 
+    ☐ Dev and prod build separation @low 
+    ☐ File hashing @low 
+    ☐ gzip? @low 
